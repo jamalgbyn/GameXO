@@ -1,0 +1,45 @@
+gameXO
+
+player 
+x and o
+
+
+
+area
+
+array 3*3
+9 boxes
+
+draw area game
+
+check is the box is empty when chosee where you waht put your  x or or
+
+
+check ways win 
+
+if win x   x++
+if win y y++
+if tie tie++;
+
+
+clases
+
+abstruct class
+game xo
+
+has 
+player
+area
+
+
+polyphormism
+
+player class 
+area class 
+
+
+
+
+
+
+
